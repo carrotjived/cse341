@@ -1,0 +1,19 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "Contacts API",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrotjived/cse341-w1.git"
+  },
+  "author": "Victor Jared Onato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carrotjived/cse341-w1/issues"
+  },
+  "homepage": "https://github.com/carrotjived/cse341-w1#readme"
+}
