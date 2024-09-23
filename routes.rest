@@ -1,0 +1,17 @@
+//LOCALLY
+//Get all contact: 
+GET http://localhost:3000/contact/
+//Get contact by id: 
+GET http://localhost:3000/contact/66edabee7a927479e13d4a7e
+
+
+
+
+//PRODUCTION
+//Get all contacts:
+
+GET https://cse341-rplx.onrender.com/contact
+
+//Get contact by id: 
+
+GET https://cse341-rplx.onrender.com/contact/66edabee7a927479e13d4a7e
