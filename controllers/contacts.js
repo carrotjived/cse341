@@ -10,6 +10,7 @@ const getAll = async (req, res) => {
     res.status(200).json(contact);
   });
 };
+
 const getSingle = async (req, res) => {
   //#swagger.tags=['Contacts']
   const userId = ObjectId.createFromHexString(req.params.id);

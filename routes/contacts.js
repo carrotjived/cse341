@@ -7,6 +7,7 @@ router.get("/", contactController.getAll);
 
 //Get one Contact by Id
 router.get("/:id", contactController.getSingle);
+
 //Create Contact
 router.post("/", contactController.createContact);
 
