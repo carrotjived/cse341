@@ -11,7 +11,7 @@ router.get("/:id", contactController.getSingle);
 router.post("/", contactController.createContact);
 
 //Put Contact
-router.post("/:id", contactController.updateContact);
+router.put("/:id", contactController.updateContact);
 
 //Delete Contact
 router.delete("/:id", contactController.deleteContact);
