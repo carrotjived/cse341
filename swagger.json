@@ -5,7 +5,7 @@
     "description": "Contact API",
     "version": "1.0.0"
   },
-  "host": "https://cse341-rplx.onrender.com",
+  "host": "cse341-rplx.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
